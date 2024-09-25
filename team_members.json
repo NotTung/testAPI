@@ -1,0 +1,22 @@
+[
+    {
+        "id": 1,
+        "name": "Admin",
+        "description": "bla bla bla",
+        "image": "",
+        "tag1": "Attacker",
+        "tag2": "All Rounder",
+        "tag3": "",
+        "is_admin": 1
+    },
+    {
+        "id": 2,
+        "name": "Member",
+        "description": "Am I good?",
+        "image": "",
+        "tag1": "Defender",
+        "tag2": "Attacker",
+        "tag3": "",
+        "is_admin": 0
+    }
+]
